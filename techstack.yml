@@ -2,7 +2,7 @@ repo_name: ammaralnajim/image_captioning
 report_id: ee8e4d435ea49cb64ed751ad1ede1652
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:36:03+00:00'
+timestamp: '2024-01-05T08:19:31+00:00'
 requested_by: nixiieee
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ammaralnajim/image_captioning
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/image_captioning
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -36,4 +38,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/ammaralnajim/image_captioning
   detection_source: Repo Metadata
